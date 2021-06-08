@@ -1,10 +1,18 @@
 canvas{
 	width: 100%;
 	height: 100%;
-	background: black;
+	background: rgb(172, 235, 224);
 }
 
 body, html{
 	height: 100%;
 	margin: 0 ;
+	background: rgb(143, 235, 219);
+}
+
+h1{
+	padding-left: 40%;
+	border: 1mm solid black;
+	margin: auto;
+	font-size:xx-large;
 }
